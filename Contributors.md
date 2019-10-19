@@ -21,6 +21,7 @@
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Abhishek](https://github.com/wikiabhi)
 - [Aurab De](https://github.com/AurabDe)
+- [Renhold Akerlow](https://github.com/raker714)
 - [Abdulkarim] (https://https://github.com/kromy1994)
 -[Huda Ali](https://github.com/hali0008)
 - [Kalpit Pant](https://github.com/kalpitpant)
